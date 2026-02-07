@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there! 👋 I'm Raymond.
 
-<!--
-**raemondz20-droid/raemondz20-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am the creator of **[ResuPick](https://resupick.com)**, an intelligent candidate ranking system that helps recruiters screen resumes 10x faster using AI.
 
-Here are some ideas to get you started:
+#### 🚀 Currently Working On
+*   **ResuPick**: Integrating advanced parsing logic with Gemini AI to score candidates against job descriptions.
+*   **Tech Stack**: Next.js 14, TypeScript, Firebase, Tailwind CSS, Netlify.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔗 Connect with me
+*   **Website**: [https://resupick.com](https://resupick.com)
+*   **Focus**: SaaS Development, AI Integration, Full-Stack Engineering.
+
+![ResuPick Status](https://img.shields.io/badge/Project-ResuPick-blueviolet?style=for-the-badge&logo=rocket)
