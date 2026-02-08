@@ -1,13 +1,14 @@
 ### Hi there! 👋 I'm Raymond.
 
-I am the creator of **[ResuPick](https://resupick.com)**, an intelligent candidate ranking system that helps recruiters screen resumes 10x faster using AI.
+I am the creator of **[ResuPick](https://resupick.com)** and **[TamisKo](https://tamisko.com)**.
 
 #### 🚀 Currently Working On
-*   **ResuPick**: Integrating advanced parsing logic with Gemini AI to score candidates against job descriptions.
-*   **Tech Stack**: Next.js 14, TypeScript, Firebase, Tailwind CSS, Netlify.
+*   **TamisKo**: Modernizing diabetes management with **GlucoZmart**, an AI-powered lifestyle companion.
+*   **ResuPick**: Scaling an intelligent candidate ranking system for recruiters.
+*   **Tech Stack**: Next.js 14, React 19, TypeScript, Firebase, Capacitor, Tailwind CSS.
 
 #### 🔗 Connect with me
-*   **Website**: [https://resupick.com](https://resupick.com)
-*   **Focus**: SaaS Development, AI Integration, Full-Stack Engineering.
+*   **Websites**: [resupick.com](https://resupick.com) | [tamisko.com](https://tamisko.com)
+*   **Focus**: SaaS Development, AI Integration, Health-Tech, Full-Stack Engineering.
 
-![ResuPick Status](https://img.shields.io/badge/Project-ResuPick-blueviolet?style=for-the-badge&logo=rocket)
+![ResuPick Status](https://img.shields.io/badge/Project-ResuPick-blueviolet?style=for-the-badge&logo=rocket) ![TamisKo Status](https://img.shields.io/badge/Project-TamisKo-success?style=for-the-badge&logo=heartbeat)
