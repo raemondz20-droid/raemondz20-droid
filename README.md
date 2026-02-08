@@ -3,7 +3,7 @@
 I am the creator of **[ResuPick](https://resupick.com)** and **[TamisKo](https://tamisko.com)**.
 
 #### 🚀 Currently Working On
-*   **TamisKo**: Modernizing diabetes management with **GlucoZmart**, an AI-powered lifestyle companion.
+*   **TamisKo**: Modernizing diabetes management with an AI-powered lifestyle companion.
 *   **ResuPick**: Scaling an intelligent candidate ranking system for recruiters.
 *   **Tech Stack**: Next.js 14, React 19, TypeScript, Firebase, Capacitor, Tailwind CSS.
 
